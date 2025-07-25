@@ -1,0 +1,90 @@
+   SIT-Claim Portal URL- http://113.193.29.163/ABSLI/Account/FMPHLogin
+
+Branch User
+UN-homeshbrhyd1
+PW-Password1$
+
+Admin User
+UN-homeshadbl03
+PW-Password1$
+
+Client name-Bank of karnataka
+
+MP-ending with 726
+
+Shield Product
+
+Branch :
+User: bshield
+Pwd: Password1$
+
+Admin
+User: Ashield
+Pwd: Password1$
+
+"CR3"
+Branch User
+UserName: branchcr3
+Password:Password1$
+
+Admin User
+UserName:admincr3
+Password:Password1$
+
+GBY Service request
+
+Branch UserName:gbybranch
+Password:Password1$
+
+Admin UserName:gbyadmin
+Password:Password1$
+
+
+
+
+UAT-https://uatgrouppartners.adityabirlasunlifeinsurance.com/ABSLIMPH/Account/FMPHlogin
+GBY Product
+UserName:gbybranch
+Password:Password1$
+
+GSS/GSM/Shield
+UserName:branchcr3
+Password:Password1$
+
+GAAP
+UserName:gaapbranch
+Password:Password1$
+
+
+Branch
+UN-7760089046
+PW-Password1$
+
+Admin
+UN-9000667974
+PW-Password1$
+
+SFTP Path-->root--Bulk Claim Document--Input--Need to Drag PDF(Claim ID_Type ID_Date)
+Scheduler--BulkClaimDocumentScheduler--ABSLI_Claim_Document
+pass@00001
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+URL -->  http://113.193.29.163/ABSLI/Account/Login
+
+Login page --> XPath
+
+Username -->  ContentPlaceHolder1_txtUserName
+Password --> ContentPlaceHolder1_txtPassword
+Submit --> ContentPlaceHolder1_btnSubmit
+
+Id --> liAccount
+chnage product --> //*[@id="liAccount"]/div/ul/li[2]/a
+
+Client ID -- 2000002452
+Agreement Number -- 093476
+RF No -- Female_Set_Back_1
+
+
